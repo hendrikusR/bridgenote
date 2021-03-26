@@ -8,6 +8,7 @@ Tutorial instalasi simple crud
 * Setting database with your own 
 * running php artisan migrate to migrate database structure
 * running php artisan db:seed to seeding data user
+* run php artisan test to test the feature
 
 USERNAME : dev@bridgenote.com
 PASSWORD : 12345
